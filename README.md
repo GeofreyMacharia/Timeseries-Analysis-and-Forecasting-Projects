@@ -8,3 +8,5 @@ Making series stationary (detrending, log transformation, decomposition).
  
 Forecasting( using xgb boost to predict timeseries).
 
+## Extra
+For more detailed information kindly check 'Electric timeseries' notebook as it has detailed information. 
